@@ -48,5 +48,5 @@ Example API Call,"curl -X 'POST' 'http://127.0.0.1:8000/api/predict' -H 'accept:
 
 ## demo video
 
-https://drive.google.com/file/d/1fdEoxZ2p-BbCbSPh6NAW2eS3O_Fy8e-x/view?usp=drive_link
+https://drive.google.com/file/d/1cikugw69H94uu23AI0PS6uUaDJQslzwO/view?usp=drive_link
 
