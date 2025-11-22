@@ -7,7 +7,7 @@
 
 ---
 
-### 📅 Sample Standup Entry (Date: DD/MM/YYYY)
+### 📅 Sample Standup Entry 
 
 **Yesterday**
 - Completed API integration for user login.
